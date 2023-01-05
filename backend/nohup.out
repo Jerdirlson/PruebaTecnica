@@ -90,3 +90,373 @@
 
 
 11:17:10 AM - Found 0 errors. Watching for file changes.
+c11:31:45 a. m. - Starting compilation in watch mode...
+
+
+11:31:49 a. m. - Found 0 errors. Watching for file changes.
+c11:32:12 a. m. - File change detected. Starting incremental compilation...
+
+
+11:32:12 a. m. - Found 0 errors. Watching for file changes.
+c11:32:14 a. m. - File change detected. Starting incremental compilation...
+
+
+11:32:14 a. m. - Found 0 errors. Watching for file changes.
+c11:32:22 a. m. - File change detected. Starting incremental compilation...
+
+
+11:32:22 a. m. - Found 0 errors. Watching for file changes.
+c11:59:31 a. m. - Starting compilation in watch mode...
+
+
+11:59:33 a. m. - Found 0 errors. Watching for file changes.
+c1:07:54 p. m. - Starting compilation in watch mode...
+
+
+1:07:57 p. m. - Found 0 errors. Watching for file changes.
+c1:10:25 p. m. - Starting compilation in watch mode...
+
+
+1:10:27 p. m. - Found 0 errors. Watching for file changes.
+c1:31:05 p. m. - File change detected. Starting incremental compilation...
+
+
+1:31:05 p. m. - Found 0 errors. Watching for file changes.
+c1:35:18 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(55,28): error TS2304: Cannot find name 'async'.
+
+1:35:18 p. m. - Found 1 error. Watching for file changes.
+c1:35:36 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(55,28): error TS2304: Cannot find name 'async'.
+
+1:35:36 p. m. - Found 1 error. Watching for file changes.
+c1:35:40 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(55,38): error TS1109: Expression expected.
+
+1:35:40 p. m. - Found 1 error. Watching for file changes.
+c1:35:44 p. m. - File change detected. Starting incremental compilation...
+
+
+1:35:44 p. m. - Found 0 errors. Watching for file changes.
+c1:36:08 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(55,40): error TS2304: Cannot find name 're'.
+
+1:36:08 p. m. - Found 1 error. Watching for file changes.
+c1:36:11 p. m. - File change detected. Starting incremental compilation...
+
+
+1:36:11 p. m. - Found 0 errors. Watching for file changes.
+c1:36:19 p. m. - File change detected. Starting incremental compilation...
+
+
+1:36:19 p. m. - Found 0 errors. Watching for file changes.
+c1:36:23 p. m. - File change detected. Starting incremental compilation...
+
+
+1:36:23 p. m. - Found 0 errors. Watching for file changes.
+c1:36:57 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(56,15): error TS1155: 'const' declarations must be initialized.
+
+1:36:57 p. m. - Found 1 error. Watching for file changes.
+c1:36:58 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(57,5): error TS1109: Expression expected.
+
+1:36:58 p. m. - Found 1 error. Watching for file changes.
+c1:37:13 p. m. - File change detected. Starting incremental compilation...
+
+
+1:37:13 p. m. - Found 0 errors. Watching for file changes.
+c1:37:22 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(57,5): error TS1109: Expression expected.
+
+1:37:22 p. m. - Found 1 error. Watching for file changes.
+c1:37:34 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(56,23): error TS1127: Invalid character.
+
+1:37:34 p. m. - Found 1 error. Watching for file changes.
+c1:37:35 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(56,24): error TS1127: Invalid character.
+
+1:37:35 p. m. - Found 1 error. Watching for file changes.
+c1:37:37 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(57,5): error TS1109: Expression expected.
+
+1:37:37 p. m. - Found 1 error. Watching for file changes.
+c1:37:42 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(56,23): error TS1127: Invalid character.
+src/routes.ts(56,24): error TS1127: Invalid character.
+
+1:37:42 p. m. - Found 2 errors. Watching for file changes.
+c1:37:43 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(56,23): error TS1127: Invalid character.
+src/routes.ts(57,9): error TS1127: Invalid character.
+
+1:37:43 p. m. - Found 2 errors. Watching for file changes.
+c1:37:45 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(56,23): error TS1127: Invalid character.
+src/routes.ts(56,24): error TS1127: Invalid character.
+
+1:37:45 p. m. - Found 2 errors. Watching for file changes.
+c1:37:57 p. m. - File change detected. Starting incremental compilation...
+
+
+1:37:57 p. m. - Found 0 errors. Watching for file changes.
+c1:38:40 p. m. - File change detected. Starting incremental compilation...
+
+
+1:38:40 p. m. - Found 0 errors. Watching for file changes.
+c1:38:43 p. m. - File change detected. Starting incremental compilation...
+
+
+1:38:43 p. m. - Found 0 errors. Watching for file changes.
+c1:38:45 p. m. - File change detected. Starting incremental compilation...
+
+
+1:38:45 p. m. - Found 0 errors. Watching for file changes.
+c1:38:46 p. m. - File change detected. Starting incremental compilation...
+
+
+1:38:46 p. m. - Found 0 errors. Watching for file changes.
+c1:38:49 p. m. - File change detected. Starting incremental compilation...
+
+
+1:38:49 p. m. - Found 0 errors. Watching for file changes.
+c1:38:53 p. m. - File change detected. Starting incremental compilation...
+
+
+1:38:53 p. m. - Found 0 errors. Watching for file changes.
+c1:38:59 p. m. - File change detected. Starting incremental compilation...
+
+
+1:38:59 p. m. - Found 0 errors. Watching for file changes.
+c1:39:01 p. m. - File change detected. Starting incremental compilation...
+
+
+1:39:01 p. m. - Found 0 errors. Watching for file changes.
+c1:39:04 p. m. - File change detected. Starting incremental compilation...
+
+
+1:39:04 p. m. - Found 0 errors. Watching for file changes.
+c1:39:22 p. m. - File change detected. Starting incremental compilation...
+
+
+1:39:22 p. m. - Found 0 errors. Watching for file changes.
+c1:39:25 p. m. - File change detected. Starting incremental compilation...
+
+
+1:39:25 p. m. - Found 0 errors. Watching for file changes.
+c1:39:29 p. m. - File change detected. Starting incremental compilation...
+
+
+1:39:29 p. m. - Found 0 errors. Watching for file changes.
+c1:39:49 p. m. - File change detected. Starting incremental compilation...
+
+
+1:39:49 p. m. - Found 0 errors. Watching for file changes.
+c1:39:57 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(58,5): error TS1109: Expression expected.
+
+1:39:57 p. m. - Found 1 error. Watching for file changes.
+c1:40:09 p. m. - File change detected. Starting incremental compilation...
+
+
+1:40:09 p. m. - Found 0 errors. Watching for file changes.
+c1:40:11 p. m. - File change detected. Starting incremental compilation...
+
+
+1:40:11 p. m. - Found 0 errors. Watching for file changes.
+c1:40:14 p. m. - File change detected. Starting incremental compilation...
+
+
+1:40:14 p. m. - Found 0 errors. Watching for file changes.
+c1:40:15 p. m. - File change detected. Starting incremental compilation...
+
+
+1:40:15 p. m. - Found 0 errors. Watching for file changes.
+c1:40:18 p. m. - File change detected. Starting incremental compilation...
+
+
+1:40:19 p. m. - Found 0 errors. Watching for file changes.
+c1:40:26 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(58,15): error TS1155: 'const' declarations must be initialized.
+
+1:40:26 p. m. - Found 1 error. Watching for file changes.
+c1:40:28 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(59,5): error TS1110: Type expected.
+
+1:40:28 p. m. - Found 1 error. Watching for file changes.
+c1:40:30 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(58,15): error TS1155: 'const' declarations must be initialized.
+
+1:40:31 p. m. - Found 1 error. Watching for file changes.
+c1:40:42 p. m. - File change detected. Starting incremental compilation...
+
+
+1:40:42 p. m. - Found 0 errors. Watching for file changes.
+c1:40:43 p. m. - File change detected. Starting incremental compilation...
+
+
+1:40:43 p. m. - Found 0 errors. Watching for file changes.
+c1:40:49 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(59,15): error TS1155: 'const' declarations must be initialized.
+
+1:40:49 p. m. - Found 1 error. Watching for file changes.
+c1:40:54 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(60,5): error TS1110: Type expected.
+
+1:40:54 p. m. - Found 1 error. Watching for file changes.
+c1:40:56 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(59,15): error TS1155: 'const' declarations must be initialized.
+src/routes.ts(59,26): error TS2304: Cannot find name 'Ok'.
+
+1:40:56 p. m. - Found 2 errors. Watching for file changes.
+c1:41:00 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(59,15): error TS1155: 'const' declarations must be initialized.
+
+1:41:01 p. m. - Found 1 error. Watching for file changes.
+c1:41:05 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(59,15): error TS2740: Type 'DataBase' is missing the following properties from type 'OkPacket': fieldCount, affectedRows, insertId, message, and 2 more.
+
+1:41:06 p. m. - Found 1 error. Watching for file changes.
+c1:41:10 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(59,46): error TS2551: Property 'updateQuer' does not exist on type 'DataBase'. Did you mean 'updateQuery'?
+
+1:41:10 p. m. - Found 1 error. Watching for file changes.
+c1:41:11 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(59,15): error TS2322: Type '(query: string, values: string[]) => Promise<OkPacket>' is not assignable to type 'OkPacket'.
+
+1:41:11 p. m. - Found 1 error. Watching for file changes.
+c1:41:23 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(59,46): error TS2554: Expected 2 arguments, but got 0.
+
+1:41:23 p. m. - Found 1 error. Watching for file changes.
+c1:41:28 p. m. - File change detected. Starting incremental compilation...
+
+
+1:41:28 p. m. - Found 0 errors. Watching for file changes.
+c1:41:29 p. m. - File change detected. Starting incremental compilation...
+
+
+1:41:29 p. m. - Found 0 errors. Watching for file changes.
+c1:41:49 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(60,9): error TS2304: Cannot find name 'a'.
+
+1:41:49 p. m. - Found 1 error. Watching for file changes.
+c1:41:51 p. m. - File change detected. Starting incremental compilation...
+
+
+1:41:51 p. m. - Found 0 errors. Watching for file changes.
+c1:42:13 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(61,5): error TS1005: '(' expected.
+
+1:42:13 p. m. - Found 1 error. Watching for file changes.
+c1:42:15 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(60,12): error TS1109: Expression expected.
+src/routes.ts(61,5): error TS1109: Expression expected.
+
+1:42:15 p. m. - Found 2 errors. Watching for file changes.
+c1:42:26 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(61,5): error TS1109: Expression expected.
+
+1:42:26 p. m. - Found 1 error. Watching for file changes.
+c1:42:29 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(61,5): error TS1109: Expression expected.
+
+1:42:29 p. m. - Found 1 error. Watching for file changes.
+c1:42:33 p. m. - File change detected. Starting incremental compilation...
+
+
+1:42:33 p. m. - Found 0 errors. Watching for file changes.
+c1:42:37 p. m. - File change detected. Starting incremental compilation...
+
+
+1:42:37 p. m. - Found 0 errors. Watching for file changes.
+c1:42:45 p. m. - File change detected. Starting incremental compilation...
+
+
+1:42:45 p. m. - Found 0 errors. Watching for file changes.
+c1:42:47 p. m. - File change detected. Starting incremental compilation...
+
+
+1:42:47 p. m. - Found 0 errors. Watching for file changes.
+c1:42:48 p. m. - File change detected. Starting incremental compilation...
+
+
+1:42:48 p. m. - Found 0 errors. Watching for file changes.
+c1:43:02 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(64,16): error TS2555: Expected at least 1 arguments, but got 0.
+
+1:43:02 p. m. - Found 1 error. Watching for file changes.
+c1:43:03 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(64,16): error TS2555: Expected at least 1 arguments, but got 0.
+
+1:43:03 p. m. - Found 1 error. Watching for file changes.
+c1:43:05 p. m. - File change detected. Starting incremental compilation...
+
+
+1:43:05 p. m. - Found 0 errors. Watching for file changes.
+c1:43:11 p. m. - File change detected. Starting incremental compilation...
+
+
+1:43:11 p. m. - Found 0 errors. Watching for file changes.
+c1:43:14 p. m. - File change detected. Starting incremental compilation...
+
+
+1:43:14 p. m. - Found 0 errors. Watching for file changes.
+c1:43:20 p. m. - File change detected. Starting incremental compilation...
+
+
+1:43:20 p. m. - Found 0 errors. Watching for file changes.
+c1:43:28 p. m. - File change detected. Starting incremental compilation...
+
+
+1:43:28 p. m. - Found 0 errors. Watching for file changes.
+c1:43:34 p. m. - File change detected. Starting incremental compilation...
+
+src/routes.ts(68,9): error TS1003: Identifier expected.
+
+1:43:35 p. m. - Found 1 error. Watching for file changes.
+c1:43:39 p. m. - File change detected. Starting incremental compilation...
+
+
+1:43:40 p. m. - Found 0 errors. Watching for file changes.
+c2:19:17 p. m. - Starting compilation in watch mode...
+
+
+2:19:20 p. m. - Found 0 errors. Watching for file changes.
+c2:27:17 p. m. - Starting compilation in watch mode...
+
+
+2:27:22 p. m. - Found 0 errors. Watching for file changes.

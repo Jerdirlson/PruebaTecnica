@@ -23,7 +23,8 @@ export default (app: Express, io: Server) => {
             // Socket
             const todo = {
                 ...req.body,
-                id: response.insertId
+                id: response.insertId,
+                stage: 1
             }
             io.emit('newTodo', todo)
         }else {
@@ -45,6 +46,22 @@ export default (app: Express, io: Server) => {
             res.end()
 
             io.emit('deleteTodo', req.body.id)
+        }else{
+            res.end()
+            res.status(204)
+        }
+    })
+
+    app.post('/todo/next', async(req : Request, res : Response) =>{
+        const query = ` UPDATE todos SET stage = stage + 1 WHERE id = ?`
+        const values = [req.body.id]
+        const db : DataBase = await initDatabase (res)
+        const response : OkPacket = await db.updateQuery(query, values)
+        if(response.affectedRows > 0){
+            res.status(200)
+            res.end()
+
+            io.emit('nextStage', req.body.id)
         }else{
             res.end()
             res.status(204)

@@ -14,13 +14,13 @@
                     Title:
                 </div>
                 <div >
-                    <input type="text " class="border px-2 w-full">
+                    <input v-model="inputs.title" type="text " class="border px-2 w-full">
                 </div>
                 <div class="pt-2">
                     Description:
                 </div>
                 <div>
-                    <textarea class="border w-full resize-none">
+                    <textarea v-model="inputs.description" class="border w-full resize-none">
 
                     </textarea>
                 </div>
@@ -29,10 +29,10 @@
                         Color:
                     </div>
                     <div class="w-1/5">
-                        <input type="color">
+                        <input v-model="inputs.color" type="color">
                     </div>
                     <div class="w-3/5 flex justify-end">
-                        <boton title="Agregar" color="secondary"/>
+                        <boton title="Agregar" color="primary" @click="mostrar()"/>
                     </div>
                 </div>
             </div>
@@ -42,8 +42,20 @@
 
 <script setup lang="ts">
 import boton from '../components/boton.vue'
-import { defineEmits } from 'vue';
+import { defineEmits, ref } from 'vue';
 
-const emits = defineEmits(['onClose'])
+const inputs = ref({
+    title : "",
+    description : "",
+    color : "#000000"
+})
+
+const emits = defineEmits(['onClose', 'toSave'])
+
+
+const mostrar = () => {
+    console.log( inputs.value)
+    emits('toSave', inputs)
+}
 
 </script>
