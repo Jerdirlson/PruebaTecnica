@@ -14,9 +14,9 @@ export const initDatabase = async (res: Response) => {
 
 export class DataBase {
     private readonly host: string = 'localhost';
-    private readonly user: string = 'root';
-    private readonly password: string = '20011308Aron';
-    private readonly database: string = 'Todos';
+    private readonly user: string = 'fibiaan';
+    private readonly password: string = 'F1b144n*';
+    private readonly database: string = 'todos';
     private readonly port: number = parseInt('3306');
     
     private response: Response;
