@@ -7,7 +7,9 @@ import axios from 'axios'
 import { useTodosStore } from '../stores/todos';
 import { io } from 'socket.io-client'
 
-const host = '192.168.1.27'
+const host = '192.168.1.3'
+
+//Si se cambia la ip se debe modificar aqui
 
 
 const dialog = ref(false)

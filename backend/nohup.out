@@ -460,3 +460,23 @@ src/routes.ts(68,9): error TS1003: Identifier expected.
 
 
 2:27:22 p. m. - Found 0 errors. Watching for file changes.
+c3:03:53 ├F10: PM┤ - Starting compilation in watch mode...
+
+
+3:03:56 ├F10: PM┤ - Found 0 errors. Watching for file changes.
+c8:47:04 ├F10: PM┤ - Starting compilation in watch mode...
+
+
+8:47:07 ├F10: PM┤ - Found 0 errors. Watching for file changes.
+c9:20:06 ├F10: PM┤ - Starting compilation in watch mode...
+
+
+9:20:09 ├F10: PM┤ - Found 0 errors. Watching for file changes.
+c9:20:14 ├F10: PM┤ - File change detected. Starting incremental compilation...
+
+
+9:20:14 ├F10: PM┤ - Found 0 errors. Watching for file changes.
+c9:33:00 ├F10: PM┤ - File change detected. Starting incremental compilation...
+
+
+9:33:00 ├F10: PM┤ - Found 0 errors. Watching for file changes.

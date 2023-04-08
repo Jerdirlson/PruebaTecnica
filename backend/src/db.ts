@@ -13,9 +13,10 @@ export const initDatabase = async (res: Response) => {
 
 
 export class DataBase {
+    //Lo que se debe cambiar en caso de utilizar una base de datos diferentes
     private readonly host: string = 'localhost';
     private readonly user: string = 'root';
-    private readonly password: string = '20011308Aron';
+    private readonly password: string = '1308';
     private readonly database: string = 'todos';
     private readonly port: number = parseInt('3306');
 
