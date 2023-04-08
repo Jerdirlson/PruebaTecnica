@@ -12,6 +12,7 @@ export default defineConfig({
     }
   },
   server: {
-    host: '192.168.1.27'
+    host: '192.168.1.3'
+    //Si se cambia la ip se debe modificar aqui
   }
 })
